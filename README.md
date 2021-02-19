@@ -1,10 +1,8 @@
 ### Hi there 👋
-__
 
 <div align="center">
 <img src="https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif">
 </div>
-
 
 <!--
 **RandelSouza/RandelSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
