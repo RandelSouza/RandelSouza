@@ -2,7 +2,7 @@
 
 <div align="center" float="left">
 <img src="https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif">
-<img alt="Cat Image" src="https://github.com/RandelSouza/RandelSouza/blob/main/Playful%20cat.gif">
+<img width="250" heigth="250" alt="Cat Image" src="https://github.com/RandelSouza/RandelSouza/blob/main/Playful%20cat.gif">
 </div>
 
 <!--
