@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div  alibg="center" float="left">
+<div  align="center" float="left">
 <img width="350" heigth="350" src="https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif">
 <img width="250" heigth="250" alt="Cat Image" src="https://github.com/RandelSouza/RandelSouza/blob/main/Playful%20cat.gif">
 </div>
