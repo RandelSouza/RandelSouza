@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <h1> Olá 👋, seja bem-vindo(a)!</h1>
+</div>
 
 <div  align="center" float="left">
   <img width="350" heigth="350" src="https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif">  
