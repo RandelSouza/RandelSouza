@@ -7,7 +7,7 @@
   <img width="250" heigth="250" alt="Cat Image" src="https://github.com/RandelSouza/RandelSouza/blob/main/Playful%20cat.gif">
 </div>
 
-<div align="center">
+<div align="center" float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=buefy&icon_color=0366d6&locale=pt-br" alt="Estatísticas do Github de Randel Souza Almeida.">
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=compact&locale=pt-br&title_color=7b62d5)](https://github.com/anuraghazra/github-readme-stats)
