@@ -11,7 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=buefy&icon_color=0366d6&locale=pt-br" alt="Estatísticas do Github de Randel Souza Almeida.">
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=compact&locale=pt-br&title_color=7b62d5&langs_count=8&include_all_commits" alt="Github readme stats">
-  - 🔭 Estou focando no aprendizado de Java, Spring Boot, Angular, Nodejs e Typescript.
+</div>
+
+<div align="center">
+ - 🔭 Estou focando no aprendizado de Java, Spring Boot, Angular, Nodejs e Typescript.
 </div>
 
 <!--
