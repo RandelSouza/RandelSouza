@@ -14,8 +14,13 @@
 </div>
 
 <div align="center">
- - 🔭 Estou focando no aprendizado de Java, Spring Boot, Angular, Nodejs e Typescript.
+ - ✨🔭 Estou focando no aprendizado de Java, Spring Boot, Angular, Nodejs e Typescript ✨.
 </div>
+
+<p align="center">Obrigado pela visita!</p>
+<p align="center">
+  <img align="center" src="https://lnkd.in/dbPcVnK"/>
+</p>
 
 <!--
 **RandelSouza/RandelSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
