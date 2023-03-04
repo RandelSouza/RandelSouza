@@ -1,3 +1,5 @@
+![readme-ascii](https://github.com/RandelSouza/RandelSouza/blob/main/Randel.png)
+
 <div align="center">
   <h1> Olá 👋, seja bem-vindo(a)!</h1>
 </div>
