@@ -11,21 +11,25 @@
     <img src="https://github.com/RandelSouza/RandelSouza/blob/main/github-user-contribution.svg" alt="Snake game gif">
 </div>
 
+<br/>
+
 <div align="center" float="left">
-  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=nightowl&locale=pt-br&layout=default" alt="Estatísticas do Github de Randel Souza Almeida.">
-    <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&theme=nightowl&locale=pt-br&layout=default" alt="Estatísticas do Github de Randel Souza Almeida.">
-  </div>
   
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=default&show_icons=true&theme=nightowl&locale=pt-br&langs_count=8&include_all_commits" alt="Github readme stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=compact&show_icons=true&theme=nightowl&locale=pt-br&langs_count=8&include_all_commits&&hide_progress=false" alt="Github readme stats">
 </div>
+
+<br/>
 
 <div align="center">
  - ✨🔭 Estou focando no aprendizado de Java, Spring Boot, Angular, Nodejs e Typescript ✨.
 </div>
 
+<br/>
+
 <p align="center">Obrigado pela visita!</p>
+
+<br/>
 
 <p align="center">
   <img align="center" src="https://lnkd.in/dbPcVnK"/>
