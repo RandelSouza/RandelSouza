@@ -12,7 +12,11 @@
 </div>
 
 <div align="center" float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=nightowl&locale=pt-br&layout=default" alt="Estatísticas do Github de Randel Souza Almeida.">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=nightowl&locale=pt-br&layout=default" alt="Estatísticas do Github de Randel Souza Almeida.">
+    <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&theme=nightowl&locale=pt-br&layout=default" alt="Estatísticas do Github de Randel Souza Almeida.">
+  </div>
+  
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=default&show_icons=true&theme=nightowl&locale=pt-br&langs_count=8&include_all_commits" alt="Github readme stats">
 </div>
