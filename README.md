@@ -8,7 +8,7 @@
 </div-->
 
 <div  align="center">
-    <img src="https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif](https://github.com/RandelSouza/RandelSouza/blob/main/github-user-contribution.svg)" alt="Snake game gif">
+    <img src="https://github.com/RandelSouza/RandelSouza/blob/main/github-user-contribution.svg" alt="Snake game gif">
 </div>
 
 <div align="center" float="left">
