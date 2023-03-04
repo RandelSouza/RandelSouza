@@ -2,9 +2,13 @@
   <h1> Olá 👋, seja bem-vindo(a)!</h1>
 </div>
 
-<div  align="center" float="left">
+<!--div  align="center" float="left">
   <img width="350" heigth="350" src="https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif" alt="Insigth image">  
   <img width="250" heigth="250" alt="Cat Image" src="https://github.com/RandelSouza/RandelSouza/blob/main/Playful%20cat.gif" alt="Funny Cat image">
+</div-->
+
+<div>
+    ![snake gif](https://github.com/RandelSouza/RandelSouza/blob/output/github-user-contribution.svg)
 </div>
 
 <div align="center" float="left">
