@@ -7,8 +7,9 @@
   <img width="250" heigth="250" alt="Cat Image" src="https://github.com/RandelSouza/RandelSouza/blob/main/Playful%20cat.gif" alt="Funny Cat image">
 </div-->
 
-![snake gif](https://github.com/RandelSouza/RandelSouza/blob/main/github-user-contribution.svg)
-
+<div  align="center">
+    <img src="[https://github.com/RandelSouza/RandelSouza/blob/main/Design%20tools%20(1).gif](https://github.com/RandelSouza/RandelSouza/blob/main/github-user-contribution.svg)" alt="Snake game gif">
+</div>
 
 <div align="center" float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=buefy&icon_color=0366d6&locale=pt-br" alt="Estatísticas do Github de Randel Souza Almeida.">
