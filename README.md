@@ -14,7 +14,7 @@
 <div align="center" float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=randelsouza&count_private=true&show_icons=true&theme=buefy&icon_color=0366d6&locale=pt-br" alt="Estatísticas do Github de Randel Souza Almeida.">
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=compact&locale=pt-br&title_color=7b62d5&langs_count=8&include_all_commits" alt="Github readme stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randelsouza&layout=compact&&show_icons=true&theme=radical&locale=pt-br&title_color=7b62d5&langs_count=8&include_all_commits" alt="Github readme stats">
 </div>
 
 <div align="center">
@@ -22,6 +22,7 @@
 </div>
 
 <p align="center">Obrigado pela visita!</p>
+
 <p align="center">
   <img align="center" src="https://lnkd.in/dbPcVnK"/>
 </p>
